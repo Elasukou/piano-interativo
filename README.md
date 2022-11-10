@@ -8,7 +8,7 @@
 <br>
 
 <p aling="center">
-    <img alt="calendario da copa" src=".github/preview.png" width="100%">
+    <img alt="piano" src=".github/preview.png" width="100%">
 </p>
 
 ## Tecnologias
@@ -21,11 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-O Calendário da Copa é um projeto que mostras as possiveis partidas mais emocionantes da fase de grupos da Copa do Qatar 2022.
-
-## Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EYM4SOU7bJpjcaaIBR2RW2/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). É nescessário ter conta no [FIGMA](https://www.figma.com) para acessá-lo.
+O piano interativo é um projeto que foi desenvolvido na Masterclass Benginners da Rocketseat, sobre manipulação de DOM com JavaScript, para melhorar minhas habilidades sobre o respectivo tema.
 
 ---
 
